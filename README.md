@@ -53,30 +53,21 @@ This type of counter is normally referred to as a Down Counter, (CTD). In a bina
 ### PROGRAM 
 /*
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by: HARINI R
+RegisterNumber:  23000779
 */
-
-
-
-
-
+![CODE UC](https://github.com/raja-harini/Exp-7-Synchornous-counters-/assets/149037372/04881939-fdcc-46b9-bbdc-34b38b881efb)
+![WAVE FORM UC](https://github.com/raja-harini/Exp-7-Synchornous-counters-/assets/149037372/d4b7a09f-dbc2-4c57-8088-b565f5f1a64b)
+![CODE DC](https://github.com/raja-harini/Exp-7-Synchornous-counters-/assets/149037372/f0b57d83-1bf3-4cd5-8cbf-8409f1510cdc)
+![WAVE FORM DC](https://github.com/raja-harini/Exp-7-Synchornous-counters-/assets/149037372/cbab8b8c-c1f8-43d4-b2d7-42d132e32bc5)
 
 ### RTL LOGIC UP COUNTER AND DOWN COUNTER  
-
-
-
-
-
-
-
-
+![LOGIC DIAGRAM UC](https://github.com/raja-harini/Exp-7-Synchornous-counters-/assets/149037372/408ec738-bdab-47dd-b857-9b43d9d1328e)
+![LOGIC DIAGRAM DC](https://github.com/raja-harini/Exp-7-Synchornous-counters-/assets/149037372/a49d1c38-3c7d-4310-b44b-b4c6056fe124)
 
 ### TIMING DIGRAMS FOR COUNTER  
-
-
-
-
+![TIMING DIAGRAM UC](https://github.com/raja-harini/Exp-7-Synchornous-counters-/assets/149037372/f826c411-7ce0-4fc4-944d-4852940f5ea5)
+![TIMING DIAGRAM DC](https://github.com/raja-harini/Exp-7-Synchornous-counters-/assets/149037372/70df047a-e474-429a-862e-877f7cf3434a)
 
 ### TRUTH TABLE 
 
